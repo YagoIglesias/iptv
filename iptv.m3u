@@ -1115,11 +1115,11 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200" group-title="Musicales" tvg-name="Portal Foxmix Chile",Portal Foxmix Chile
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cuatro.es@SD" group-title="Atresmedia" tvg-name="La Cuatro",Cuatro (1080p)
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Cuatro_(canal_de_televisi%C3%B3n)#/media/Archivo:Cuatro.svg" tvg-id="Cuatro.es@SD" group-title="Atresmedia" tvg-name="La Cuatro",Cuatro (1080p)
 http://176.65.146.237:8401/play/a09s/index.m3u8
-#EXTINF:-1 tvg-id="LaSexta.es@SD" group-title="Atresmedia" tvg-name="La sexta",La Sexta (1080p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/LaSexta_2024.svg/revision/latest?cb=20240507195300" tvg-id="LaSexta.es@SD" group-title="Atresmedia" tvg-name="La sexta",La Sexta (1080p)
 http://176.65.146.237:8401/play/a0af/index.m3u8
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es@SD" group-title="Atresmedia" tvg-name="FDF",FDF (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" tvg-id="FactoriadeFiccion.es@SD" group-title="Atresmedia" tvg-name="FDF",FDF (1080p)
 http://176.65.146.237:8401/play/a09p/index.m3u8
-#EXTINF:-1 tvg-id="Mega.es@SD" group-title="Atresmedia" tvg-name="MEGA",Mega (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/MEGA.svg" tvg-id="Mega.es@SD" group-title="Atresmedia" tvg-name="MEGA",Mega (1080p)
 http://176.65.146.237:8401/play/a0a5/index.m3u8
