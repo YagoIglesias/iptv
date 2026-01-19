@@ -1115,12 +1115,11 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200" group-title="Musicales" tvg-name="Portal Foxmix Chile",Portal Foxmix Chile
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 group-title="Atresmedia" tvg-name=0""
-#EXTINF:-1 tvg-id="Cuatro.es@SD",Cuatro (1080p)
+#EXTINF:-1 tvg-id="Cuatro.es@SD" group-title="Atresmedia" tvg-name="La Cuatro",Cuatro (1080p)
 http://176.65.146.237:8401/play/a09s/index.m3u8
-#EXTINF:-1 tvg-id="LaSexta.es@SD",La Sexta (1080p)
+#EXTINF:-1 tvg-id="LaSexta.es@SD" group-title="Atresmedia" tvg-name="La sexta",La Sexta (1080p)
 http://176.65.146.237:8401/play/a0af/index.m3u8
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es@SD",FDF (1080p)
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es@SD" group-title="Atresmedia" tvg-name="FDF",FDF (1080p)
 http://176.65.146.237:8401/play/a09p/index.m3u8
-#EXTINF:-1 tvg-id="Mega.es@SD",Mega (1080p)
+#EXTINF:-1 tvg-id="Mega.es@SD" group-title="Atresmedia" tvg-name="MEGA",Mega (1080p)
 http://176.65.146.237:8401/play/a0a5/index.m3u8
